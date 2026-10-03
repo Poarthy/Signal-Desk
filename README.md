@@ -18,8 +18,8 @@ sources → one tracker-free JSON digest, served by a single Next.js app.
 | ![Live desk](docs/screenshots/01-desk-global.png) | ![Search highlight](docs/screenshots/02-search-highlight.png) |
 | **Dark theme** | **Desk controls** |
 | ![Dark theme](docs/screenshots/03-dark-theme.png) | ![Desk controls](docs/screenshots/04-desk-controls.png) |
-| **Desk menu** | **Iranian desk** |
-| ![Desk menu](docs/screenshots/05-region-menu.png) | ![Iranian desk](docs/screenshots/06-desk-iran.png) |
+| **Desk menu** | **Persian desk** |
+| ![Desk menu](docs/screenshots/05-region-menu.png) | ![Persian desk](docs/screenshots/06-desk-iran.png) |
 
 ## What it does
 
