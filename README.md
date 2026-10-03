@@ -1,4 +1,4 @@
-# NewsHub · Signal Desk
+# SignalDesk
 
 **A local-first news desk for global affairs & Iranian geopolitics.** 15 RSS/Atom
 sources → one tracker-free JSON digest, served by a single Next.js app.
